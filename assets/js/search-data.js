@@ -23,12 +23,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/quantumsteampunk/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
+        },{id: "nav-components",
+          title: "Components",
+          description: "A piece-by-piece tour of the Quantadrive components.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/quantumsteampunk/projects/";
+            window.location.href = "/quantumsteampunk/components/";
           },
         },{id: "nav-repositories",
           title: "repositories",
@@ -442,51 +442,51 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-arrow",
+          title: 'Arrow',
+          description: "Teaser description of component",
           section: "Projects",handler: () => {
-              window.location.href = "/quantumsteampunk/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+              window.location.href = "/quantumsteampunk/projects/arrow/";
+            },},{id: "projects-battery",
+          title: 'Battery',
+          description: "Teaser description of component",
           section: "Projects",handler: () => {
-              window.location.href = "/quantumsteampunk/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+              window.location.href = "/quantumsteampunk/projects/battery/";
+            },},{id: "projects-classical-heat-engines",
+          title: 'Classical heat engines',
+          description: "Teaser description of this component",
           section: "Projects",handler: () => {
-              window.location.href = "/quantumsteampunk/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+              window.location.href = "/quantumsteampunk/projects/classical/";
+            },},{id: "projects-clock",
+          title: 'Clock',
+          description: "Teaser description of component",
           section: "Projects",handler: () => {
-              window.location.href = "/quantumsteampunk/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+              window.location.href = "/quantumsteampunk/projects/clock/";
+            },},{id: "projects-hot-and-cold-reservoirs",
+          title: 'Hot and cold reservoirs',
+          description: "Teaser description of component",
           section: "Projects",handler: () => {
-              window.location.href = "/quantumsteampunk/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+              window.location.href = "/quantumsteampunk/projects/hotcold/";
+            },},{id: "projects-lasers",
+          title: 'Lasers',
+          description: "Teaser description of component",
           section: "Projects",handler: () => {
-              window.location.href = "/quantumsteampunk/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+              window.location.href = "/quantumsteampunk/projects/lasers/";
+            },},{id: "projects-paul-trap",
+          title: 'Paul trap',
+          description: "Teaser description of component",
           section: "Projects",handler: () => {
-              window.location.href = "/quantumsteampunk/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
+              window.location.href = "/quantumsteampunk/projects/paultrap/";
+            },},{id: "projects-sphere",
+          title: 'Sphere',
+          description: "Teaser description of component",
           section: "Projects",handler: () => {
-              window.location.href = "/quantumsteampunk/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
+              window.location.href = "/quantumsteampunk/projects/sphere/";
+            },},{id: "projects-trapped-ion-quantum-engine",
+          title: 'Trapped-ion quantum engine',
+          description: "Teaser description of component",
           section: "Projects",handler: () => {
-              window.location.href = "/quantumsteampunk/projects/9_project/";
+              window.location.href = "/quantumsteampunk/projects/trappedion/";
             },},{
         id: 'social-email',
         title: 'email',
