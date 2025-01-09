@@ -2,7 +2,7 @@
 layout: about
 title: Intro
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Fun subtitle for the Quantadrive
 
 profile:
   align: right
