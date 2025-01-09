@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-WThe Quantadrive is an interactive, kinetic sculpture being shared across the world through travel and social media. The sculpture combines the whimsy of steampunk art with real-world quantum technology and thermodynamics (the science of energy). To learn more, navigate through the pages in the menu above. Afterward, please share your reactions by signing our virtual guestbook [hyperlink] and posting with the hashtag #quantadrive on social media!
+The Quantadrive is an interactive, kinetic sculpture being shared across the world through travel and social media. The sculpture combines the whimsy of steampunk art with real-world quantum technology and thermodynamics (the science of energy). To learn more, navigate through the pages in the menu above. Afterward, please share your reactions by signing our virtual guestbook [hyperlink] and posting with the hashtag #quantadrive on social media!
 
 You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
