@@ -10,7 +10,7 @@ related_publications: true
 
 Four classical heat engines are distributed around the sculpture’s base.
 
-A _heat engine_ is a device that converts heat into work. _Heat_ is the uncoordinated energy of particles wiggling about randomly. _Work_ is coordinated energy that one can harness directly to perform a useful task such as charging a battery. In this artist rendition, the sculpture’s classical engines power the lasers that cool and otherwise serve the quantum engine described below.
+A _heat engine_ is a device that converts heat into work. Heat is the uncoordinated energy of particles wiggling about randomly. _Work_ is coordinated energy that one can directly harness to perform a useful task such as charging a battery. In this artist rendition, the sculpture’s classical engines power the lasers that interact with the quantum engine described [here](/_projects/lasers.md).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
