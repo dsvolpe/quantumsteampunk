@@ -14,7 +14,7 @@ ninja.data = [{
           description: "Replace this text with description.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/quantumsteampunk/setup/";
+            window.location.href = "/quantumsteampunk/setting/";
           },
         },{id: "nav-components",
           title: "Components",
@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-future",
           title: "Future",
-          description: "Replace this text with description.",
+          description: "Looking toward the future",
           section: "Navigation",
           handler: () => {
             window.location.href = "/quantumsteampunk/future/";

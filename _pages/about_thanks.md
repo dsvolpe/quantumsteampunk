@@ -1,0 +1,1 @@
+Our team thanks Alaina M. Green for sharing her expertise about trapped-ion experiments. We also thank Christopher Jarzynski and Emily Mitchell for their logistical help.
