@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Components
-permalink: /components/
+permalink: /projects/
 description: A piece-by-piece tour of the Quantadrive components.
 nav: true
 nav_order: 2
