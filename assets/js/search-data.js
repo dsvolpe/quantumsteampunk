@@ -25,14 +25,14 @@ ninja.data = [{
           },
         },{id: "nav-action",
           title: "Action",
-          description: "Replace this text with description.",
+          description: "And... action!",
           section: "Navigation",
           handler: () => {
             window.location.href = "/action/";
           },
         },{id: "nav-team",
           title: "Team",
-          description: "members of the Quantadrive team",
+          description: "Members of Captain Okoli&#39;s Magnificent Steampunk Quantum Engine team",
           section: "Navigation",
           handler: () => {
             window.location.href = "/team/";
@@ -43,6 +43,13 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/future/";
+          },
+        },{id: "nav-guestbook",
+          title: "Guestbook",
+          description: "Share your impressions about the Steampunk Quantum Engine!",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/guestbook/";
           },
         },{id: "post-a-post-with-image-galleries",
       
@@ -396,8 +403,8 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-construction-of-the-quantadrive-has-started-sparkles",
-          title: 'Construction of the Quantadrive has started! :sparkles:',
+    },{id: "news-construction-of-the-captain-okoli-s-magnificent-steampunk-quantum-engine-has-started-sparkles",
+          title: 'Construction of the Captain Okoli’s Magnificent Steampunk Quantum Engine has started! :sparkles:',
           description: "",
           section: "News",},{id: "news-a-simple-announcement",
           title: 'A simple announcement.',
@@ -458,34 +465,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
-        },
-      },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("//feed.xml", "_blank");
-        },
-      },{
-        id: 'social-scholar',
-        title: 'Google Scholar',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
         },
       },{
       id: 'light-theme',
