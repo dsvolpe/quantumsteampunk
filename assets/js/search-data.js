@@ -21,7 +21,7 @@ ninja.data = [{
           description: "A piece-by-piece tour of the Quantadrive components.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/components/";
+            window.location.href = "/projects/";
           },
         },{id: "nav-action",
           title: "Action",
