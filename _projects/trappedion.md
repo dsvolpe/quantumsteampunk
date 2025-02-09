@@ -2,7 +2,7 @@
 layout: page
 title: Trapped-ion quantum engine
 description: Teaser description of component
-img: assets/img/7.jpg
+img: assets/img/genericcomponent.jpg
 redirect:
 importance: 3
 category: work

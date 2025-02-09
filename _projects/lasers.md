@@ -2,7 +2,7 @@
 layout: page
 title: Lasers
 description: Teaser description of component
-img: assets/img/6.jpg
+img: assets/img/genericcomponent.jpg
 importance: 5
 category: work
 ---

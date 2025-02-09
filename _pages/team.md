@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /team/
 title: Team
-description: members of the Quantadrive team
+description: Members of Captain Okoli's Magnificent Steampunk Quantum Engine team
 nav: true
 nav_order: 4
 
@@ -14,63 +14,55 @@ profiles:
     content: about_rosenbaum.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
+      <!--- <p>555 your office number</p>
       <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Your City, State 12345</p> --->
   - align: left
     image: prof_pic.jpg
     content: about_yungerhalpern.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
+      <!--- <p>555 your office number</p>
       <p>123 your address street</p>
-      <p>Your City, State 12345</p>
-  - align: left
-    image: prof_pic.jpg
+      <p>Your City, State 12345</p> --->
+  - align: right
+    image: prof_pic_serrano.jpg
     content: about_serrano.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
+      <!--- <p>555 your office number</p>
       <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Your City, State 12345</p> --->
   - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
-  - align: left
-    image: prof_pic.jpg
+    image: prof_pic_phillips.jpg
     content: about_phillips.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
+      <!--- <p>555 your office number</p>
       <p>123 your address street</p>
-      <p>Your City, State 12345</p>
-  - align: left
+      <p>Your City, State 12345</p> --->
+  - align: right
     image: prof_pic.jpg
     content: about_michalakis.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
+      <!--- <p>555 your office number</p>
       <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Your City, State 12345</p> --->
   - align: left
     image: prof_pic.jpg
     content: about_nava-tudela.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
+      <!--- <p>555 your office number</p>
       <p>123 your address street</p>
-      <p>Your City, State 12345</p>
-  - align: left
+      <p>Your City, State 12345</p> --->
+  - align: right
     image: prof_pic.jpg
     content: about_thanks.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
+      <!--- <p>555 your office number</p>
       <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Your City, State 12345</p> --->
 ---

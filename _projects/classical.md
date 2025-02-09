@@ -2,7 +2,7 @@
 layout: page
 title: Classical heat engines
 description: Teaser description of this component
-img: assets/img/6.jpg
+img: assets/img/genericcomponent.jpg
 importance: 1
 category: work
 related_publications: true
