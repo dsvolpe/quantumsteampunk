@@ -5,7 +5,7 @@ description: Teaser description of component
 img: assets/img/component_reservoirs.jpg
 importance: 2
 category: work
-giscus_comments: true
+giscus_comments: false
 ---
 
 As mentioned in [Classical Heat Engines](/_projects/classical.md), a heat engine converts
