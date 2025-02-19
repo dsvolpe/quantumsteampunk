@@ -434,11 +434,6 @@ ninja.data = [{
           description: "Teaser description of component",
           section: "Projects",handler: () => {
               window.location.href = "/projects/clock/";
-            },},{id: "projects-hot-and-cold-reservoirs",
-          title: 'Hot and cold reservoirs',
-          description: "Teaser description of component",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/hotcold/";
             },},{id: "projects-lasers",
           title: 'Lasers',
           description: "Teaser description of component",
@@ -449,6 +444,11 @@ ninja.data = [{
           description: "Teaser description of component",
           section: "Projects",handler: () => {
               window.location.href = "/projects/paultrap/";
+            },},{id: "projects-hot-and-cold-reservoirs",
+          title: 'Hot and cold reservoirs',
+          description: "Teaser description of component",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/reservoirs/";
             },},{id: "projects-sphere",
           title: 'Sphere',
           description: "Teaser description of component",
