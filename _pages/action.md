@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /action/
-title: Action
+title: (Inter)Action
 description: And... action!
 nav: true
 nav_order: 3
