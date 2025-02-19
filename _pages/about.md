@@ -51,7 +51,7 @@ Captain Okoli is an engineer, merchant, and innovator. Perpetually on a quest fo
 <table cellpadding="10">
   <tr>
     <td><img src="assets/img/modvic_logo.png" alt="modvic" height="75"></td>
-    <td>“ModVic</td>
+    <td>ModVic</td>
   </tr>
   <tr>
     <td><img src="assets/img/empire_logo.png" alt="empire" height="75"></td>
