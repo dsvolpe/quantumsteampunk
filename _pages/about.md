@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-__Captain Okoli's Magnificent Steampunk Quantum Engine__
+## __Captain Okoli's Magnificent Steampunk Quantum Engine__
 
 _Locked away in his Manchester laboratory, Captain Okoli wrestled with the ultimate limits on machines, limits set by universal laws of physics: could he build an engine, rather than from many interconnected components, from merely one atom?..._
 
