@@ -23,8 +23,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-action",
-          title: "Action",
+        },{id: "nav-inter-action",
+          title: "(Inter)Action",
           description: "And... action!",
           section: "Navigation",
           handler: () => {
@@ -434,6 +434,11 @@ ninja.data = [{
           description: "Teaser description of component",
           section: "Projects",handler: () => {
               window.location.href = "/projects/clock/";
+            },},{id: "projects-the-engine",
+          title: 'The engine',
+          description: "A zoomed-out view of the engine",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/fullpicture/";
             },},{id: "projects-lasers",
           title: 'Lasers',
           description: "Teaser description of component",
