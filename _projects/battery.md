@@ -2,7 +2,7 @@
 layout: page
 title: Battery
 description: Teaser description of component
-img: assets/img/genericcomponent.jpg
+img: assets/img/component_battery.jpg
 importance: 7
 category: work
 related_publications: true

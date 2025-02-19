@@ -2,7 +2,7 @@
 layout: page
 title: Clock
 description: Teaser description of component
-img: assets/img/genericcomponent.jpg
+img: assets/img/component_clock.jpg
 importance: 6
 category: work
 ---

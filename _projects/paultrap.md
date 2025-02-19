@@ -2,7 +2,7 @@
 layout: page
 title: Paul trap
 description: Teaser description of component
-img: assets/img/genericcomponent.jpg
+img: assets/img/component_paultrap.jpg
 importance: 4
 category: work
 ---

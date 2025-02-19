@@ -2,7 +2,7 @@
 layout: page
 title: Sphere
 description: Teaser description of component
-img: assets/img/genericcomponent.jpg
+img: assets/img/component_sphere.jpg
 importance: 8
 category: work
 giscus_comments: true
