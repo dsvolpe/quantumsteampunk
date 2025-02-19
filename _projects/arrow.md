@@ -4,7 +4,7 @@ title: Arrow
 description: Teaser description of component
 img: assets/img/component_arrow.jpg
 importance: 9
-category: work
+category: 
 ---
 
 [Description of found object] Aside from introducing Victoriana into the sculpture, the arrow evokes a Bloch vector. A _Bloch vector_ is a mathematical object used in quantum information science. We can understand it through the lens of classical information. The basic unit of classical information is the _bit_. A bit is the answer to a yes-or-no question such as "Would you like jam with your scone?" One encodes a bit in a system able to be in one of two possible configurations. For example, a classical computer stores a bit in a transistor that’s on or off. A light switch can encode a bit by pointing upward or downward.

@@ -2,10 +2,10 @@
 layout: page
 title: Components
 permalink: /projects/
-description: A piece-by-piece tour of the Captain Oloki's Steampunk Quantum Engine components.
+description: A piece-by-piece tour of Captain Oloki's Steampunk Quantum Engine components.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories:
 horizontal: false
 ---
 

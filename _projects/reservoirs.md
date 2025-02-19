@@ -4,7 +4,7 @@ title: Hot and cold reservoirs
 description: Teaser description of component
 img: assets/img/component_reservoirs.jpg
 importance: 2
-category: work
+category: 
 giscus_comments: false
 ---
 

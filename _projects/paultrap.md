@@ -4,7 +4,7 @@ title: Paul trap
 description: Teaser description of component
 img: assets/img/component_paultrap.jpg
 importance: 4
-category: work
+category: 
 ---
 
 Atoms and ions jiggle about randomly. To use an ion—whether in quantum information processing or in a quantum engine—one must confine it. A Paul trap offers a common solution. The trap exerts a force on the electrically charged ion, using an electric field. In the sculpture, the central gray component represents a Paul trap. 

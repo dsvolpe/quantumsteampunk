@@ -4,7 +4,7 @@ title: Sphere
 description: Teaser description of component
 img: assets/img/component_sphere.jpg
 importance: 8
-category: work
+category: 
 giscus_comments: false
 ---
 

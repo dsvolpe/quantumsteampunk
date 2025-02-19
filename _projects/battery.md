@@ -4,7 +4,7 @@ title: Battery
 description: Teaser description of component
 img: assets/img/component_battery.jpg
 importance: 7
-category: work
+category: 
 related_publications: true
 ---
 
