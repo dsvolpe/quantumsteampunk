@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-components",
           title: "Components",
-          description: "A piece-by-piece tour of the Captain Oloki&#39;s Steampunk Quantum Engine components.",
+          description: "A piece-by-piece tour of Captain Oloki&#39;s Steampunk Quantum Engine components.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
