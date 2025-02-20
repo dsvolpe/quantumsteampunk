@@ -7,7 +7,7 @@ importance: 6
 category: 
 ---
 
-Laser beams shine on the trapped ion. One laser serves as a cold reservoir for the quantum engine, similarly to the blue tank connected to the classical engines. The other lasers can help transduce the work extracted by the quantum engine (see the [Battery](../projects/battery.md)). In this artist depiction, the classical engines power the lasers.
+Laser beams shine on the trapped ion. One laser serves as a cold reservoir for the quantum engine, similarly to the blue tank connected to the classical engines. The other lasers can help transduce the work extracted by the quantum engine (see the [Battery](../battery.md)). In this artist depiction, the classical engines power the lasers.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
