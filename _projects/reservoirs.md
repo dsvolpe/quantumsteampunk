@@ -8,7 +8,7 @@ category:
 giscus_comments: false
 ---
 
-As mentioned in [Classical Heat Engines](/_projects/classical.md), a heat engine converts
+As mentioned in [Classical Heat Engines](../projects/classical.md), a heat engine converts
 heat into work. A simple heat engine interacts with a hot environment,
 also called a cold reservoir or cold bath, and a hot environment. Heat
 flows naturally from the hot reservoir to the cold. The engine extracts
