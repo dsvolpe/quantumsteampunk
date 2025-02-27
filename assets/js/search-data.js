@@ -10,43 +10,43 @@ ninja.data = [{
       window.location.href = "/";
     },
   },{id: "nav-setting-the-scene",
-          title: "Setting the Scene",
-          description: "Replace this text with description.",
+          title: "Setting the scene",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/setting/";
           },
         },{id: "nav-components",
           title: "Components",
-          description: "A piece-by-piece tour of Captain Oloki&#39;s Steampunk Quantum Engine components.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
           },
         },{id: "nav-inter-action",
-          title: "(Inter)Action",
-          description: "And... action!",
+          title: "(Inter)action",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/action/";
           },
         },{id: "nav-team",
           title: "Team",
-          description: "Members of Captain Okoli&#39;s Magnificent Steampunk Quantum Engine team",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/team/";
           },
         },{id: "nav-future",
           title: "Future",
-          description: "Looking toward the future",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/future/";
           },
         },{id: "nav-guestbook",
           title: "Guestbook",
-          description: "Share your impressions about the Steampunk Quantum Engine!",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/guestbook/";
@@ -416,62 +416,50 @@ ninja.data = [{
               window.location.href = "/news/announcement_2/";
             },},{id: "projects-arrow",
           title: 'Arrow',
-          description: "Teaser description of component",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/arrow/";
             },},{id: "projects-battery",
           title: 'Battery',
-          description: "Teaser description of component",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/battery/";
             },},{id: "projects-classical-heat-engines",
           title: 'Classical heat engines',
-          description: "Teaser description of this component",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/classical/";
             },},{id: "projects-clock",
           title: 'Clock',
-          description: "Teaser description of component",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/clock/";
-            },},{id: "projects-the-engine",
-          title: 'The engine',
-          description: "A zoomed-out view of the engine",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/fullpicture/";
             },},{id: "projects-lasers",
           title: 'Lasers',
-          description: "Teaser description of component",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/lasers/";
             },},{id: "projects-paul-trap",
           title: 'Paul trap',
-          description: "Teaser description of component",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/paultrap/";
             },},{id: "projects-hot-and-cold-reservoirs",
           title: 'Hot and cold reservoirs',
-          description: "Teaser description of component",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/reservoirs/";
             },},{id: "projects-sphere",
           title: 'Sphere',
-          description: "Teaser description of component",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/sphere/";
             },},{id: "projects-trapped-ion-quantum-engine",
           title: 'Trapped-ion quantum engine',
-          description: "Teaser description of component",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/trappedion/";
             },},{
-        id: 'social-email',
-        title: 'email',
-        section: 'Socials',
-        handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
-        },
-      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
