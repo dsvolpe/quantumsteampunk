@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /team/
 title: Team
-description: Members of Captain Okoli's Magnificent Steampunk Quantum Engine team
+description:
 nav: true
 nav_order: 4
 

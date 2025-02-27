@@ -1,21 +1,27 @@
 ---
 layout: page
 permalink: /action/
-title: (Inter)Action
-description: And... action!
+title: (Inter)action
+description:
 nav: true
 nav_order: 3
 ---
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Banner_Action.png" title="And action" class="img-fluid rounded" %}
+    </div>
+</div>
 
 Press the button by the sculpture. The sculpture will move and light up so as to evoke classical and quantum heat-engine cycles. The classical engines are portrayed as powering the lasers that participate in the quantum engine cycle.
 
 [Filligree border]
 
-As mentioned on the [“Components” page](../projects/), many engines operate by undergoing engine cycles. An engine cycle is a sequence of strokes, or steps. Many famous engine cycles have two or four strokes each. Examples include the Otto cycle, which many car engines undergo, and the Carnot cycle, designed to achieve the greatest efficiency possible (for any engine that interacts with just a hot reservoir and a cold reservoir). During a stroke, the engine may exchange heat with its hot reservoir or cold reservoir. Also, thermodynamic properties of the engine might change. For example, if the engine consists essentially of a classical gas (as do many car engines), its pressure or volume might vary.
+As mentioned on the [“Components”](../projects/) page, many engines operate by undergoing engine cycles. An engine cycle is a sequence of strokes, or steps. Many famous engine cycles have two or four strokes each. Examples include the Otto cycle, which many car engines undergo, and the Carnot cycle, designed to achieve the greatest efficiency possible (for any engine that interacts with just a hot reservoir and a cold reservoir). During a stroke, the engine may exchange heat with its hot reservoir or cold reservoir. Also, thermodynamic properties of the engine might change. For example, if the engine consists essentially of a classical gas (as do many car engines), its pressure or volume might vary.
 
 An engine cycle is called a cycle because it returns the engine to its initial conditions. For example, a classical-gas engine returns to the temperature, pressure, and volume with which it began the cycle. The cycle changes the engine’s environment, however: the hot reservoir cools a little, and the cold reservoir warms up a little. If one runs enough engine cycles, the reservoirs will end up at the same temperature. No net heat will flow between them spontaneously anymore, and they’ll no longer be able to fuel the engine. (The sculpture doesn’t represent this extreme circumstance.)
 
-__Quantum engine cycle__
+## __Quantum engine cycle__
 
 The quantum engine undergoes a cycle described in the paper published [here](https://www.science.org/doi/10.1126/science.aad6320) and available for free to all [here](https://arxiv.org/abs/1510.03681). (The sculpture doesn’t represent the cycle with scientific accuracy.) The ion (represented by the amber light at the sculpture’s center) sits in a trap (represented by the sculpture’s central gray component) that generates an electromagnetic field. The field is invisible to the naked eye, but the ion senses the field because of having an electric charge. The field acts like a landscape in which the ion moves, similarly to how a bowl can form a landscape in which a marble moves. The electromagnetic landscape is shaped like a funnel. At the beginning of the cycle, the ion sits in the funnel’s narrow neck.
 

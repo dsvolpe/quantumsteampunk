@@ -2,12 +2,20 @@
 layout: page
 title: Components
 permalink: /projects/
-description: A piece-by-piece tour of Captain Oloki's Steampunk Quantum Engine components.
+description:
 nav: true
 nav_order: 2
 display_categories:
 horizontal: false
 ---
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Banner_Components.png" title="Setting the scene" class="img-fluid rounded" %}
+    </div>
+</div>
+
+A piece-by-piece tour of Captain Oloki's Magnificent Steampunk Quantum Engine.
 
 <!-- pages/projects.md -->
 <div class="projects">

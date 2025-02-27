@@ -1,11 +1,17 @@
 ---
 layout: page
 permalink: /setting/
-title: Setting the Scene
-description: Replace this text with description.
+title: Setting the scene
+description:
 nav: true
 nav_order: 1
 ---
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Banner_Setting.png" title="Setting the scene" class="img-fluid rounded" %}
+    </div>
+</div>
 
 Several interconnected ideas informed the conception and design of Captain Okoli’s Magnificent Steampunk Quantum Engine. First, __steampunk__ is a subgenre of science fiction. You can find this subgenre throughout literature, film, art, and handicraft. In steampunk works, 19th-century settings feature futuristic technologies. Think of the classics _The Time Machine_ and _Twenty Thousand Leagues Under the Sea_, the bestselling book _The Invention of Hugo Cabret_, and the film _The League of Extraordinary Gentlemen_ that stars Sean Connery. Dirigibles, automata, and steam-powered computers infiltrate Victorian London; the American Wild, Wild West; a newly liberated Haiti; and more. The past mingles with the future, creating an aura of adventure and innovation. 
 

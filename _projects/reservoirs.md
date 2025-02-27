@@ -1,14 +1,16 @@
 ---
 layout: page
 title: Hot and cold reservoirs
-description: Teaser description of component
+description:
 img: assets/img/component_reservoirs.jpg
 importance: 3
 category: 
 giscus_comments: false
 ---
 
-As mentioned in [Classical Heat Engines](../classical/), a heat engine converts
+## Hot and cold reservoirs
+
+As mentioned in the ["Classical heat engines"](../classical/) page, a heat engine converts
 heat into work. A simple heat engine interacts with a hot environment,
 also called a cold reservoir or cold bath, and a hot environment. Heat
 flows naturally from the hot reservoir to the cold. The engine extracts
