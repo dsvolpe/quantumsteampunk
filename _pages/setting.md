@@ -15,6 +15,12 @@ nav_order: 1
 
 Several interconnected ideas informed the conception and design of Captain Okoli’s Magnificent Steampunk Quantum Engine. First, __steampunk__ is a subgenre of science fiction. You can find this subgenre throughout literature, film, art, and handicraft. In steampunk works, 19th-century settings feature futuristic technologies. Think of the classics _The Time Machine_ and _Twenty Thousand Leagues Under the Sea_, the bestselling book _The Invention of Hugo Cabret_, and the film _The League of Extraordinary Gentlemen_ that stars Sean Connery. Dirigibles, automata, and steam-powered computers infiltrate Victorian London; the American Wild, Wild West; a newly liberated Haiti; and more. The past mingles with the future, creating an aura of adventure and innovation. 
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Books.png" title="scifi books" class="img-fluid rounded" %}
+    </div>
+</div>
+
 So does the past mingle with the future in quantum thermodynamics. __Thermodynamics__ is the study of energy—of heat, work, and temperature. The discipline emerged jointly with the Industrial Revolution. Steam engines were motivating the construction of factories, which were transforming cities and civilization. Engineers and (what we’d today call) scientists identified fundamental limitations on those engines’ capabilities. The limitations pointed toward abstract laws that govern the processing of energy. The laws accompanied insights about foundational questions, such as why we can move only forward in time, whereas we can move forward or backward in space.
 
 A few decades after thermodynamics crystallized, so did quantum mechanics. __Quantum mechanics__ is the study of atoms, electrons, single particles of light, and other tiny systems. Such systems can behave in ways impossible for larger, more-massive objects, such as steam engines, top hats, octopodes, planets, and human beings. These larger objects are called __classical__. They obey theories of physics developed before quantum mechanics: classical mechanics (codified by Isaac Newton during the 1600s), electromagnetism (developed during the late 1800s), and general relativity (formulated by Albert Einstein during the early 1900s). 

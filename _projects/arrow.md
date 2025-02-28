@@ -19,9 +19,9 @@ The sphere that represents a qubit’s possible quantum states has a name: the _
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/component_arrow.jpg" title="classical heat engines" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/component_arrow.jpg" width="500" title="classical heat engines" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
+<!--- <div class="caption">
     A zoomed-in view of the sculpture's arrow.
-</div>
+</div> --->

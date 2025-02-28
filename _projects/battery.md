@@ -14,9 +14,9 @@ What would you do with the work extracted by an engine? You could power a refrig
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/full_battery.jpg" title="classical heat engines" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/component_battery.jpg" width="500" title="classical heat engines" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
+<!--- <div class="caption">
     A zoomed-in view of the sculpture's battery, which is hiding near the top of the sphere.
-</div>
+</div> --->

@@ -23,6 +23,14 @@ $light-purple-color: color.adjust($purple-color, $lightness: 25%);
 $pink-color: #f92080 !default;
 $pink-color-light: #ffdddd !default;
 $yellow-color: #efcc00 !default;
+$steampunklight-color: #e0d0ae !default;
+$steampunkdark-color: #0a1d23 !default;
+$steampunkfontdark-color: #422610 !default;
+$steampunkfontdarker-color: #b07229 !default;
+$steampunkfontlight-color: #d1a329 !default;
+$steampunkfontlighter-color: #fcf5c1 !default;
+$steampunklight-card-color: #f2e3c3 !default;
+$steampunkdark-card-color: #0e2932 !default;
 
 $grey-color: #828282 !default;
 $grey-color-light: color.adjust($grey-color, $lightness: 40%);
