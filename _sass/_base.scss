@@ -20,6 +20,10 @@ strong {
   font-family: "Eb Garamond";
 }
 
+body {
+  font-size: 1.2rem;
+}
+
 hr {
   border-top: 1px solid var(--global-divider-color);
 }
@@ -438,7 +442,7 @@ ul.task-list input[type="checkbox"] {
   }
 
   .contact-note {
-    font-size: 0.8rem;
+    font-size: 1rem;
   }
 }
 
