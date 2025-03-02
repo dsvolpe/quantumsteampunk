@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Banner_Oloki.png" title="steampunk quantum engine" class="img-fluid rounded" %}
+        {% include figure.liquid loading="eager" path="assets/img/Banner_Oloki-am.png" title="steampunk quantum engine" class="img-fluid rounded" %}
     </div>
 </div>
 

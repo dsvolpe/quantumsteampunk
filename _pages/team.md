@@ -10,7 +10,7 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: prof_pic.jpg
+    image: prof_pic_rosenbaum.jpg
     content: about_rosenbaum.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -18,7 +18,7 @@ profiles:
       <p>123 your address street</p>
       <p>Your City, State 12345</p> --->
   - align: left
-    image: prof_pic.jpg
+    image: prof_pic_yungerhalpern.jpg
     content: about_yungerhalpern.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -42,7 +42,7 @@ profiles:
       <p>123 your address street</p>
       <p>Your City, State 12345</p> --->
   - align: right
-    image: prof_pic.jpg
+    image: prof_pic_michalakis.jpg
     content: about_michalakis.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -50,7 +50,7 @@ profiles:
       <p>123 your address street</p>
       <p>Your City, State 12345</p> --->
   - align: left
-    image: prof_pic.jpg
+    image: prof_pic_nava-tudela.jpg
     content: about_nava-tudela.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -58,7 +58,7 @@ profiles:
       <p>123 your address street</p>
       <p>Your City, State 12345</p> --->
   - align: right
-    image: prof_pic.jpg
+    image:
     content: about_thanks.md
     image_circular: false # crops the image to make it circular
     more_info: >

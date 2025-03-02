@@ -3,15 +3,16 @@
 # -----------------------------------------------------------------------------
 
 title: # the website title (if blank, full name will be used instead)
+author_name: Daniel Serrano
 first_name:
-middle_name: 
-last_name: 
+middle_name:
+last_name:
 contact_note: >
   Contact: <a href="mailto:bruce@modvic.com">Bruce Rosenbaum</a>  |  <a href="mailto:nicoleyh@umd.edu">Nicole Yunger Halpern</a>
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A website showcasing the Quantum Steampunk Engine.
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. Some assets designed by <a href="http://www.freepik.com">Freepik</a>.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
