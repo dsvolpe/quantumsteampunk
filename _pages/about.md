@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Intro
+title: Home
 permalink: /
 subtitle:
 
@@ -29,11 +29,11 @@ _Locked away in his Manchester laboratory, Captain Okoli wrestled with the ultim
 <img style="float: right; margin: 10px;" width="300" class="img-fluid rounded" src="assets/img/prof_pic.jpg">
 
 Captain Okoli's Magnificent Steampunk Quantum Engine is an interactive, kinetic sculpture being shared across the world through travel and social media. The sculpture combines the whimsy of steampunk art with real-world quantum technology and thermodynamics (the science of energy). To learn more, navigate through the pages in the menu above. Afterward, please share your reactions by signing our [virtual guestbook](guestbook/) and posting with the hashtag #qsteamengine on social media!
-
+<br/><br/>
 ## __Who is Captain Okoli?__
 
 Captain Okoli is an engineer, merchant, and innovator. Perpetually on a quest for the next transformative idea, he embodies the adventure and creativity of quantum steampunk. You can find him in this [book](https://quantumsteampunk.umiacs.io/book/), as well as read about the inspiration for his character [here](https://quantumfrontiers.com/2022/05/08/how-captain-okoli-got-his-name/) and [here](https://perimeterinstitute.ca/news/a-tribute-to-dr-chiamaka-okoli).
-
+<br/><br/>
 ## __With gratitude to our sponsors__
 
 <table border-spacing="0px 20px">
@@ -54,7 +54,6 @@ Captain Okoli is an engineer, merchant, and innovator. Perpetually on a quest fo
     <td> &nbsp; </td>
   </tr>
 </table>
-
 
 ## __Contributors__
 
