@@ -15,7 +15,7 @@ horizontal: false
     </div>
 </div>
 
-A piece-by-piece tour of Captain Oloki's Magnificent Steampunk Quantum Engine.
+A piece-by-piece tour of Captain Okoli's Magnificent Steampunk Quantum Engine.
 
 <!-- pages/projects.md -->
 <div class="projects">
