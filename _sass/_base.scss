@@ -478,7 +478,7 @@ ul.task-list input[type="checkbox"] {
 
 // Footer
 footer.fixed-bottom {
-  background-color: var(--global-footer-bg-color);
+  background-color: var(--global-footer-bg-color);opacity:0.7;
   font-size: 0.75rem;
 
   .container {
