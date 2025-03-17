@@ -17,7 +17,7 @@ nav_order: 5
 
 Can you imagine quantum machines beyond engines—quantum batteries, refrigerators, clocks, and computers? We can design them, and experimentalists have even built some in laboratories. Some quantum machines operate autonomously like Victorian clockwork devices. Other machines can leverage quantum phenomena, such as superpositions, to achieve better efficiencies or power than their everyday counterparts.
 
-<span style="color:#FF6133">What would you build in Captain Okoli’s laboratory?</span>
+__<span style="color:#ca8534">What would you build in Captain Okoli’s laboratory?</span>__
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
