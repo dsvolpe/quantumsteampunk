@@ -30,4 +30,4 @@ This tabletop version of Captain Okoli’s Magnificent Steampunk Quantum Engine 
 For the meantime, please share your thoughts and photos on social media, using the #qsteamengine hashtag! Also, we’d be grateful if you jotted down your reactions in our [virtual guestbook](../guestbook).
 
  {% include figure.liquid loading="eager" path="assets/img/qse_sketch.jpg" title="example image" width="300" class="img-fluid rounded z-depth-1" %}
- Sketch credit: Jim Su.
+ Sketch credit: Jim Su
